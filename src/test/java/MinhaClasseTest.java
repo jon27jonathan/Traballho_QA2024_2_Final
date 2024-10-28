@@ -8,4 +8,10 @@ public class MinhaClasseTest {
         int resultado = 2 + 3;
         assertEquals(5, resultado);
     }
+    
+    @Test
+    public void testMulti() {
+        int resultado = 2 * 3;
+        assertEquals(6, resultado);
+    }
 }
