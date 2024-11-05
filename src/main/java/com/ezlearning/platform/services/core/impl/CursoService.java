@@ -20,6 +20,12 @@ public class CursoService{
     }
 
     public void create(CursoDto cursoDto) throws Exception{
+        if (cursoDto.getNomCurso() == null) {
+            throw new Exception("Nome do curso não pode ser nulo");
+        }
+        if (cursoDto.getDescCurso() == null) {
+        	throw new Exception("Descrição do curso não pode ser nula");
+        }
         if (null != cursoRepository.findByNomCurso(cursoDto.getNomCurso())) {
             throw new Exception("Ya existe un curso con el nombre " + cursoDto.getNomCurso());
         }
