@@ -1,3 +1,4 @@
+package com.ezlearning.platform.controller;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,3 +1,4 @@
+package com.ezlearning.platform.services.core.impl;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
