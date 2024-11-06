@@ -20,25 +20,6 @@
 
     <dependencies>
     
-<<<<<<< Updated upstream
-<dependency>
-    <groupId>org.mockito</groupId>
-    <artifactId>mockito-core</artifactId>
-    <version>5.14.2</version> <!-- Verifique se a versão está atual -->
-    <scope>test</scope>
-</dependency>
-<dependency>
-    <groupId>net.bytebuddy</groupId>
-    <artifactId>byte-buddy</artifactId>
-    <version>1.15.9</version> <!-- Ou a versão mais recente -->
-</dependency>
-<dependency>
-    <groupId>net.bytebuddy</groupId>
-    <artifactId>byte-buddy-agent</artifactId>
-    <version>1.15.9</version> <!-- Ou a versão mais recente -->
-</dependency>
-
-=======
  <!-- https://mvnrepository.com/artifact/org.mockito/mockito-core -->
 <dependency>
     <groupId>org.mockito</groupId>
@@ -63,7 +44,6 @@
 </dependency>
 
 
->>>>>>> Stashed changes
 
         <!-- Thymeleaf -->
         <dependency>
