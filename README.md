@@ -1,7 +1,7 @@
 # Ez Learning
 
-> e-learning web application made using Java 8, Spring Boot, MySql and Materialize
-
+>` e-learning web application made using Java 8, Spring Boot, MySql and Materialize O trabalho está sendo trabalhado dentro do repositório:https://github.com/jon27jonathan/Traballho_QA2024_2_Final
+`
 [![GitHub](https://img.shields.io/github/license/donnatto/ez-learning?color=purple)](https://opensource.org/licenses/MIT)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/donnatto/ez-learning?color=red)](https://github.com/donnatto/ez-learning/releases)
 [![GitHub issues](https://img.shields.io/github/issues/donnatto/ez-learning)](https://github.com/donnatto/ez-learning/issues)
